@@ -1,75 +1,42 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Username (this should match the folder name)
-authors:
-- admin
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+  - name: University of Houston
+    url: ""
+superuser: true
+authors:
+  - admin
+title: Boris Shor
+role: Associate Professor of Political Science
+bio: ""
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+  - ""
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
+  - icon: envelope
+    icon_pack: fas
+    link: "#contact"
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=ShUul74AAAAJ
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/bshor
+education:
+  courses: []
 email: ""
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
+  - Researchers
+  - Visitors
 ---
+<!--StartFragment-->
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am an Associate Professor at the [Department of Political Science](http://www.uh.edu/class/political-science/) at the [University of Houston](http://www.uh.edu/).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My CV is [here](https://bshor.files.wordpress.com/2018/09/shor-cv-september-2018.pdf "shor-cv-jan-2017").
+
+The major parts of my research agenda are linked above. You can find my [Google Scholar citations here](http://scholar.google.com/citations?hl=en&user=ShUul74AAAAJ), and [my SSRN page here](http://ssrn.com/author=858121) (with my working papers).
+
+I occasionally blog about issues of the day as they touch upon my research [here](https://bshor.wordpress.com/blog). Or you can [follow me](http://twitter.com/bshor) on Twitter.
+
+Visit the [American Legislatures website](http://americanlegislatures.com/), which has my state legislative ideology data for all 50 states–at the state and individual legislator level–for 1993-2016. A [new data release](http://americanlegislatures.com/data/) was posted on May 2018, extending and cleaning the data substantially.
+
+<!--EndFragment-->
