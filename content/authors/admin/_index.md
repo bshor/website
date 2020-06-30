@@ -8,8 +8,6 @@ authors:
 title: Boris Shor
 role: Associate Professor of Political Science
 bio: ""
-interests:
-  - ""
 social:
   - icon: envelope
     icon_pack: fas
@@ -20,8 +18,6 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/bshor
-education:
-  courses: []
 email: ""
 user_groups:
   - Researchers
