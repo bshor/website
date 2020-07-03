@@ -29,8 +29,6 @@ I am an Associate Professor at the [Department of Political Science](http://www.
 
 The major parts of my research agenda are linked above. You can find my [Google Scholar citations here](http://scholar.google.com/citations?hl=en&user=ShUul74AAAAJ), and [my SSRN page here](http://ssrn.com/author=858121) (with my working papers).
 
-I occasionally blog about issues of the day as they touch upon my research [here](https://bshor.wordpress.com/blog). Or you can [follow me](http://twitter.com/bshor) on Twitter.
-
 Visit the [American Legislatures website](http://americanlegislatures.com/), which has my state legislative ideology data for all 50 states–at the state and individual legislator level–for 1993-2018. A [new data release](http://americanlegislatures.com/data/) was posted on July 2020, extending and cleaning the data substantially.
 
 <!--EndFragment-->
