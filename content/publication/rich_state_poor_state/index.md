@@ -11,7 +11,7 @@ image_preview = ""
 selected = false
 projects = []
 tags = []
-url_pdf = "NA"
+url_pdf = "rich_state_poor_state.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -19,7 +19,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source = "https://www.nowpublishers.com/article/Details/QJPS-6026"
 math = true
 highlight = true
 [header]
