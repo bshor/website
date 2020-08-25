@@ -11,7 +11,7 @@ image_preview = ""
 selected = false
 projects = []
 tags = []
-url_pdf = "http://pan.oxfordjournals.org/cgi/content/abstract/15/2/165"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -19,7 +19,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source = "http://pan.oxfordjournals.org/cgi/content/abstract/15/2/165"
 math = true
 highlight = true
 [header]

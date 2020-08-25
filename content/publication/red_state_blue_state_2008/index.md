@@ -11,7 +11,7 @@ image_preview = ""
 selected = false
 projects = []
 tags = []
-url_pdf = "NA"
+url_pdf = "https://books.google.com/books?id=jbingNQfdLgC&printsec=frontcover&source=gbs_atb#v=onepage&q&f=false"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -19,7 +19,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source = "https://books.google.com/books/about/Red_State_Blue_State_Rich_State_Poor_Sta.html?id=jbingNQfdLgC&source=kp_book_description"
 math = true
 highlight = true
 [header]
