@@ -11,7 +11,7 @@ image_preview = ""
 selected = false
 projects = []
 tags = []
-url_pdf = "NA"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -19,7 +19,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source = "https://doi.org/10.3162/036298010792069198"
 math = true
 highlight = true
 [header]
