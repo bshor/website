@@ -19,14 +19,14 @@
 #  weight = 30
 
 [[main]]
-  name = "Working"
-  url = "Workingpapers"
+  name = "Working Papers"
+  url = "#workingpapers"
   weight = 30
 
 
 [[main]]
   name = "Publications"
-  url = "Publication"
+  url = "#publications"
   weight = 40
 
 [[main]]
