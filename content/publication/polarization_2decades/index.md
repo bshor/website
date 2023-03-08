@@ -1,6 +1,6 @@
 +++
 title = "Two Decades of Polarization in America's State Legislatures"
-date = "2022-06-07"
+date = "2022-12-01"
 authors = [Boris Shor and Nolan McCarty]
 publication_types = ["2"]
 publication = "Journal of Political Institutions and Political Economy"
