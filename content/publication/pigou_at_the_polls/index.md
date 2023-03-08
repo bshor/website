@@ -1,5 +1,5 @@
 +++
-title = "Can Pigou at the polls stop us melting the poles?"
+title = "Can Pigou at the Polls Stop Us Melting the Poles?"
 date = "2022-10-21"
 authors = ["Soren T Anderson", "Ioana Marinescu", "Boris Shor"]
 publication_types = "2"
@@ -9,7 +9,6 @@ abstract = "Economists recommend Pigouvian taxes as the most efficient way to fi
 abstract_short = ""
 image_preview = ""
 selected = false
-featured = true
 projects = []
 tags = []
 url_pdf = "pigou_at_the_polls.pdf"
@@ -20,7 +19,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source = "https://www.journals.uchicago.edu/doi/epdf/10.1086/722970"
 math = true
 highlight = true
 [header]
